@@ -1,0 +1,6 @@
+[user]
+	email = sebbe.johansson1995@gmail.com
+	name = SebbeJohansson
+[credential]
+	helper = store --file ~/.git-credentials
+
