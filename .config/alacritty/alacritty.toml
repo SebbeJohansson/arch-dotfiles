@@ -1,2 +1,5 @@
 [general]
 import = ["~/.config/alacritty/aura-theme.toml"]
+
+[terminal]
+shell = { program = "/bin/bash", args = ["-l", "-c", "tmux attach || tmux"]}
