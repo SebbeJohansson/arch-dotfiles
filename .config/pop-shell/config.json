@@ -3,6 +3,15 @@
     {
       "class": "pop-shell-example",
       "title": "pop-shell-example"
+    },
+    {
+      "class": "steam"
+    },
+    {
+      "class": "1password"
+    },
+    {
+      "class": "discord"
     }
   ],
   "skiptaskbarhidden": [],
